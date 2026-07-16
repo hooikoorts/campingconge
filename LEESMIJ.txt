@@ -1,0 +1,16 @@
+UPLOADEN NAAR GITHUB
+
+1. Open je repository.
+2. Klik op Add file > Upload files.
+3. Upload deze drie bestanden:
+   - index.html
+   - flyer2026.png
+   - activite.jpg
+4. Klik op Commit changes.
+5. Ga naar Settings > Pages.
+6. Kies Deploy from a branch.
+7. Kies main en /(root).
+8. Klik op Save.
+
+Daarna staat je site online via:
+https://jouwgebruikersnaam.github.io/naam-van-je-repository/
